@@ -1,0 +1,25 @@
+{
+    "manifest": {
+        "author": "twixxty",
+        "version": "1.0.0",
+        "name": "Expressive Violet "
+    },
+    "background": {},
+    "fonts": {
+        "ginto_bold": "https:\/\/github.com\/twixxty\/Expressive-Violet\/raw\/refs\/heads\/main\/Poppins-ExtraBoldItalic.ttf",
+        "ginto_medium": "https:\/\/github.com\/twixxty\/Expressive-Violet\/raw\/refs\/heads\/main\/Poppins-Medium.ttf",
+        "ginto_regular": "https:\/\/github.com\/twixxty\/Expressive-Violet\/raw\/refs\/heads\/main\/Poppins-Regular.ttf"
+    },
+    "simple_colors": {
+        "statusbar": 1577753,
+        "background_secondary": -14875104,
+        "background": -13496002,
+        "mention_highlight": -12444848,
+        "accent": -753785,
+        "active_channel": -9755004,
+        "input_background": -14547412
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
